@@ -1,0 +1,5 @@
+.venv/
+output_phase1/
+.ipynb_checkpoints/
+__pycache__/
+lectures/
